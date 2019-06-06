@@ -6,7 +6,8 @@ The repository includes the following files:
 
 rating_expriment_clmm.R – the R script for the analysis
 
-data_ratings.csv (input for R script) – the raw data for the rating expriment
+data_ratings.csv (main input for R script) – the raw data for the rating expriment
+data_meta.participants.csv – raw participant meta data (sex, age, educational degree etc.)
 
 More info:
 
