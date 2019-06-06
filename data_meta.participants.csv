@@ -1,0 +1,84 @@
+participant	QUESTNNR	sex	age	music.edu	edu	edu2	lge.EN	lge.other.En.years	ling.edu
+506	literalnessAmTurk	male	39	2	BA		yes	NA	1
+507	literalnessAmTurk	female	29	1	BA		yes	NA	1
+509	literalnessAmTurk	male	29	1	school certificate	AS degree	yes	NA	1
+510	literalnessAmTurk	female	36	2	BA		yes	NA	2
+512	literalnessAmTurk	female	36	3	BA		yes	NA	1
+513	literalnessAmTurk	male	36	1	BA		yes	NA	1
+514	literalnessAmTurk	male	40	1	school certificate	High school or equivalent	yes	NA	1
+515	literalnessAmTurk	female	29	2	BA		yes	NA	1
+516	literalnessAmTurk	female	53	3	school certificate	High school or equivalent	yes	NA	3
+518	literalness	male	46	2	MA		yes	NA	4
+519	literalnessAmTurk	male	44	1	school certificate	High school or equivalent	yes	NA	1
+520	literalnessAmTurk	male	NA	2	BA		yes	NA	1
+521	literalnessAmTurk	male	29	1	school certificate	High school or equivalent	yes	NA	1
+522	literalnessAmTurk	female	33	2	BA		yes	NA	1
+523	literalnessAmTurk	female	27	2	school certificate	High school or equivalent	yes	NA	2
+524	literalnessAmTurk	female	61	3	school certificate	High school or equivalent	yes	NA	3
+525	literalnessAmTurk	male	28	4	school certificate	High school or equivalent	yes	NA	3
+526	literalnessAmTurk	male	49	1	BA		yes	NA	1
+528	literalnessAmTurk	female	52	3	BA		yes	NA	2
+529	literalness	male	NA	1	PhD		yes	NA	3
+538	literalnessAmTurk	male	27	1	BA		yes	NA	1
+539	literalnessAmTurk	male	31	1	school certificate	High school or equivalent	yes	NA	1
+540	literalnessAmTurk	male	34	3	MA		yes	NA	2
+541	literalnessAmTurk	male	46	1	BA		yes	NA	1
+544	literalnessAmTurk	female	61	1	BA		yes	NA	2
+545	literalnessAmTurk	male	22	1	school certificate	High school or equivalent	yes	NA	1
+546	literalnessAmTurk	NA	31	3	BA		yes	NA	1
+547	literalnessAmTurk	male	29	3	BA		yes	NA	2
+548	literalness	female	55	2	MA		yes	NA	5
+549	literalnessAmTurk	female	50	1	school certificate	Professional	yes	NA	2
+550	literalness	female	50	3	PhD		yes	NA	5
+558	literalness	NA	NA	1	BA		yes	NA	4
+559	literalness	female	20	1	school certificate	A-level	yes	NA	4
+562	literalness	male	35	3	MA		yes	NA	1
+563	literalness	female	51	3	MA		yes	NA	3
+564	literalness	female	39	1	PhD		yes	NA	2
+565	literalness	male	35	1	PhD		yes	NA	5
+566	literalness	female	23	1	MA		yes	NA	5
+568	literalness	male	21	5	BA		no	18	3
+574	literalnessLingList	NA	31	1	PhD		yes	NA	4
+576	literalnessLingList	female	30	3	BA		yes	NA	3
+577	literalnessLingList	female	75	4	PhD		yes	NA	5
+582	literalnessLingList	female	74	3	PhD		no	67	5
+584	literalnessLingList	female	40	2	MA		yes	NA	3
+585	literalnessLingList	male	27	2	MA		yes	NA	4
+586	literalnessLingList	NA	NA	4	PhD		yes	NA	4
+592	literalnessLingList	male	80	3	MA	BA (math psych)  JD (law)	yes	NA	NA
+594	literalnessLingList	female	30	3	PhD		yes	NA	4
+595	literalnessLingList	female	61	2	PhD		yes	NA	5
+599	literalnessLingList	male	65	1	MA		yes	NA	3
+600	literalnessLingList	female	41	2	PhD		yes	NA	3
+605	literalnessLingList	male	26	2	MA		yes	NA	5
+606	literalnessLingList	male	72	2	PhD		yes	NA	5
+611	literalnessLingList	female	41	3	PhD		no	40	5
+618	literalness	female	29	2	MA		no	22	4
+620	literalnessLingList	female	47	1	PhD		yes	NA	5
+624	literalnessLingList	female	43	4	PhD		yes	NA	5
+625	literalnessLingList	female	32	4	PhD		yes	NA	4
+628	literalness	female	47	3	MA		no	35	3
+630	literalnessLingList	NA	NA	NA	PhD		yes	50	5
+631	literalnessLingList	female	44	4	PhD		yes	NA	3
+632	literalnessLingList	female	38	1	MA		yes	NA	3
+633	literalnessLingList	male	38	3	PhD		yes	NA	4
+634	literalness	male	48	1	PhD		yes	NA	5
+639	literalness	female	58	1	BA		yes	NA	1
+640	literalnessLingList	female	31	4	PhD		yes	NA	5
+643	literalnessLingList	male	NA	1	MA		yes	NA	1
+652	literalness	female	29	5	BA		yes	NA	1
+656	literalness	female	43	4	school certificate	A-level	yes	NA	1
+661	literalnessLingList	NA	NA	4	MA		yes	NA	4
+666	literalnessLingList	female	55	2	school certificate	High school or equivalent	yes	NA	2
+668	literalnessLingList	female	33	2	PhD		yes	NA	5
+670	literalness	NA	NA	4	BA		yes	NA	2
+675	literalness	female	40	5	BA		yes	NA	2
+677	literalness	male	70	3	school certificate	Teacher''s Certificate'	yes	NA	1
+678	literalness	female	50	4	BA		yes	NA	1
+679	literalness	NA	60	5	school certificate	A-level	yes	NA	2
+682	literalnessLingList	female	61	1	BA		yes	NA	4
+683	literalness	male	63	5	PhD		yes	NA	3
+688	literalness	female	25	4	BA		yes	NA	1
+695	literalness	male	68	3	school certificate	GCSE	yes	NA	1
+699	literalness	male	45	1	MA		yes	NA	5
+706	literalness	NA	NA	2	MA		yes	29	3
